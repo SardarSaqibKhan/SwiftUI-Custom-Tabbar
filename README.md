@@ -7,7 +7,18 @@ This tamplet project demostrate the implementation of common style of custom tab
 - Default/Simple Tabbar
 
 # Screenshots
+
+
 <table align="center">
+  
+   <td>
+   
+
+https://github.com/user-attachments/assets/737d9ee1-b60d-4bc5-9255-d7cf95f2a9a1
+
+
+  </td>
+  
   <tr>
     <td><img src="Screenshots/IMG_3395.PNG" width="300"></td>
     <td style="width: 50px;"></td>
